@@ -1,0 +1,1 @@
+ALTER TABLE "author" ADD COLUMN "session" integer;
